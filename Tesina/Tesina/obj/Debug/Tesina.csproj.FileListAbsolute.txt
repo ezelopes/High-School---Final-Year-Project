@@ -1,0 +1,98 @@
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\bin\Debug\Tesina.exe.config
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\bin\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\bin\Debug\Tesina.pdb
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\obj\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Fotoresistenze\Tesina\Tesina\obj\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina\Tesina\Tesina\bin\Debug\Tesina.exe.config
+F:\EZE\Scuola\Tesina\Tesina\Tesina\obj\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina\Tesina\Tesina\obj\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina\Tesina\Tesina\bin\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina\Tesina\Tesina\bin\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+F:\EZE\Scuola\Tesina\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+F:\EZE\Scuola\Tesina\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+F:\EZE\Scuola\Tesina\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+F:\EZE\Scuola\Tesina\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\bin\Debug\Tesina.pdb
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+C:\Users\ezequiel\Desktop\Tesina 2-5-2016\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\bin\Debug\Tesina.pdb
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+C:\Users\ezequiel\Desktop\Tesina 3-5-2016\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\bin\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+F:\EZE\Scuola\Tesina 8-5-2016\Tesina\Tesina\bin\Debug\MySql.Data.dll
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\Tesina.pdb
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\MySql.Data.dll
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+C:\Users\ezequiel\Desktop\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\bin\Debug\MySql.Data.dll
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+F:\EZE\Scuola\Tesina 31-5-2016\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\bin\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\bin\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\bin\Debug\MySql.Data.dll
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+F:\EZE\Scuola\Tesina 11-6-2016\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache
+F:\EZE\Scuola\Tesina 12-6-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+F:\EZE\Scuola\Tesina 12-6-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 12-6-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\bin\Debug\Tesina.exe.config
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\obj\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\obj\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\bin\Debug\Tesina.exe
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\bin\Debug\Tesina.pdb
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\bin\Debug\MySql.Data.dll
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\obj\Debug\Tesina.csprojResolveAssemblyReference.cache
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\obj\Debug\Tesina.Form1.resources
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\obj\Debug\Tesina.Form2.resources
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\obj\Debug\Tesina.Properties.Resources.resources
+F:\EZE\Scuola\Tesina 29-6-2016\Tesina\Tesina\obj\Debug\Tesina.csproj.GenerateResource.Cache

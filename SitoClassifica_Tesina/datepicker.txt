@@ -1,0 +1,15 @@
+<script type="text/javascript">
+            $(document).ready(function ($) {
+                $('#datetimepicker').datepicker({
+                    format: "yyyy-mm-dd"
+                });
+            });
+        </script> <!--calendario-->
+
+<div class='input-group date' id='datetimepicker'>
+                                        
+<input type='text' name="tdata" class="form-control" data-validetta="required" placeholder="Data di nascita"/>
+                                        <span class="input-group-addon">
+                                            <span class="glyphicon glyphicon-calendar"></span>
+                                        </span>
+                                    </div>
